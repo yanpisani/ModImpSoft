@@ -43,8 +43,12 @@ Console.WriteLine(digaOla);
 
 ***Links***
 
-Video curto sobre um problema matematico [Hillbert Hotel](https://youtu.be/OxGsU8oIWjY)
+*Video curto sobre um problema matematico* [Hillbert Hotel](https://youtu.be/OxGsU8oIWjY)
 
-Video sobre uma IA resolvendo uma prova de matematica do primario [OpenAI First Grade Test](https://youtu.be/fRyTycXMlzA)
+*Video sobre uma IA resolvendo uma prova de matematica do primario* [OpenAI First Grade Test](https://youtu.be/fRyTycXMlzA)
 
 <hr />
+
+***Imagem sobre Redes Neurais Artificiais (RNA || ANN)***
+
+![Artificial Neural Networks](https://www.researchgate.net/profile/Facundo-Bre/publication/321259051/figure/fig1/AS:614329250496529@1523478915726/Artificial-neural-network-architecture-ANN-i-h-1-h-2-h-n-o.png)
