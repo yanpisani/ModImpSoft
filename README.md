@@ -41,3 +41,10 @@ Console.WriteLine(digaOla);
 
 <hr />
 
+***Links***
+
+Video curto sobre um problema matematico [Hillbert Hotel](https://youtu.be/OxGsU8oIWjY)
+
+Video sobre uma IA resolvendo uma prova de matematica do primario [OpenAI First Grade Test](https://youtu.be/fRyTycXMlzA)
+
+<hr />
