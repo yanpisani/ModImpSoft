@@ -2,7 +2,7 @@
 
 *Uma boa noite a voce, leitor.*
 
-***Seja bem vindo a este arquivo README.txt.***
+***Seja bem vindo a este repositorio, e obrigado por ler este README.txt.***
 
 ***Sou Yan Gustavo Andrade Pisani, estudante de Ciencia da Computacao na UFLA, e pequeno desenvolvedor de jogos como hobby.***
 
