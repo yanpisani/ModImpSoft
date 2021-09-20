@@ -1,6 +1,6 @@
 # Repositorio para atender a requisitos da Atividade Pratica 5 de Modelagem e Implementacao de Software.
 
-*Uma boa noite a voce, leitor.*
+*Uma boa noite a voce, leitor(a).*
 
 ***Seja bem vindo a este repositorio, e obrigado por ler este README.txt.***
 
@@ -52,3 +52,9 @@ Console.WriteLine(digaOla);
 ***Imagem sobre Redes Neurais Artificiais (RNA || ANN)***
 
 ![Artificial Neural Networks](https://www.researchgate.net/profile/Facundo-Bre/publication/321259051/figure/fig1/AS:614329250496529@1523478915726/Artificial-neural-network-architecture-ANN-i-h-1-h-2-h-n-o.png)
+
+<hr />
+
+***Estou muito agradecido por ter lido ate aqui.***
+
+*Um bom dia || boa tarde || boa noite.*
